@@ -28,3 +28,22 @@ and applying different types of analyses on these, such as code clone detection
 or code completion based on language models.
 
 [Markdown Export](rendered/2%20Naturalness%20of%20Code.md)
+
+### 3: Syntax-based analysis (Part 1)
+
+This chapter considers syntactic information on top of the lexical
+information provided by the tokens. That is, it considers what language
+constructs the tokens are used in, by looking at the abstract syntax tree.
+We further look at how we can automatically generate parsers using Antlr,
+and then use these to translate programs and to create abstract syntax
+trees. We also use the Abstract Syntax Trees to do some basic linting.
+
+[Markdown Export](rendered/4%20Syntax-based%20Analysis%20Part%201.md)
+
+### 4: Syntax-based analysis (Part 2)
+
+In this chapter we use the Abstract Syntax Trees to create code embeddings,
+which we can use to apply machine learning on source code. In particular we
+consider two models, Code2vec and ASTNN.
+
+[Markdown Export](rendered/4%20Syntax-based%20Analysis%20Part%202.md)
