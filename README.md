@@ -38,7 +38,7 @@ We further look at how we can automatically generate parsers using Antlr,
 and then use these to translate programs and to create abstract syntax
 trees. We also use the Abstract Syntax Trees to do some basic linting.
 
-[Markdown Export](rendered/4%20Syntax-based%20Analysis%20Part%201.md)
+[Markdown Export](rendered/3%20Syntax-based%20Analysis%20Part%201.md)
 
 ### 4: Syntax-based analysis (Part 2)
 
