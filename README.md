@@ -47,3 +47,16 @@ which we can use to apply machine learning on source code. In particular we
 consider two models, Code2vec and ASTNN.
 
 [Markdown Export](rendered/4%20Syntax-based%20Analysis%20Part%202.md)
+
+
+### 5: Control-flow analysis
+
+This chapter looks at how to extract information about the flow of control
+between the statements in a program, and how to represent this in the
+control flow graph. The control flow graph is the foundation for further
+control flow analyses, and in particular we consider dominance and
+post-dominance relations, which in turn are the foundation for control
+dependence analysis.
+
+[Markdown Export](rendered/5%20Controlflow%20Analysis.md)
+
