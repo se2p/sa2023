@@ -79,7 +79,7 @@ print_tree(tree)
 
 
     
-![svg](output_10_0.svg)
+![svg](img/5/output_10_0.svg)
     
 
 
@@ -214,7 +214,7 @@ cfg.plot()
 
 
     
-![png](output_26_0.png)
+![png](img/5/output_26_0.png)
     
 
 
@@ -241,7 +241,7 @@ cfg.plot()
 
 
     
-![png](output_29_0.png)
+![png](img/5/output_29_0.png)
     
 
 
@@ -277,7 +277,7 @@ cfg.plot()
 
 
     
-![png](output_32_0.png)
+![png](img/5/output_32_0.png)
     
 
 
@@ -322,7 +322,7 @@ cfg.plot()
 
 
     
-![png](output_36_0.png)
+![png](img/5/output_36_0.png)
     
 
 
@@ -353,7 +353,7 @@ cfg.plot()
 
 
     
-![png](output_40_0.png)
+![png](img/5/output_40_0.png)
     
 
 
@@ -396,7 +396,7 @@ cfg.plot()
 
 
     
-![png](output_43_0.png)
+![png](img/5/output_43_0.png)
     
 
 
@@ -426,7 +426,7 @@ cfg.plot()
 
 
     
-![png](output_46_0.png)
+![png](img/5/output_46_0.png)
     
 
 
@@ -475,7 +475,7 @@ cfg.plot()
 
 
     
-![png](output_50_0.png)
+![png](img/5/output_50_0.png)
     
 
 
@@ -527,7 +527,7 @@ cfg.plot()
 
 
     
-![png](output_54_0.png)
+![png](img/5/output_54_0.png)
     
 
 
@@ -574,7 +574,7 @@ cfg.plot()
 
 
     
-![png](output_58_0.png)
+![png](img/5/output_58_0.png)
     
 
 
@@ -622,7 +622,7 @@ cfg.plot()
 
 
     
-![png](output_62_0.png)
+![png](img/5/output_62_0.png)
     
 
 
@@ -680,7 +680,7 @@ cfg.plot()
 
 
     
-![png](output_66_0.png)
+![png](img/5/output_66_0.png)
     
 
 
@@ -715,7 +715,7 @@ cfg.plot()
 
 
     
-![png](output_69_0.png)
+![png](img/5/output_69_0.png)
     
 
 
@@ -750,7 +750,7 @@ cfg.plot()
 
 
     
-![png](output_72_0.png)
+![png](img/5/output_72_0.png)
     
 
 
@@ -863,7 +863,7 @@ cfg.plot()
 
 
     
-![png](output_84_0.png)
+![png](img/5/output_84_0.png)
     
 
 
@@ -877,7 +877,7 @@ bbcfg.plot()
 
 
     
-![png](output_86_0.png)
+![png](img/5/output_86_0.png)
     
 
 
@@ -948,7 +948,7 @@ cfg.plot()
 
 
     
-![png](output_93_0.png)
+![png](img/5/output_93_0.png)
     
 
 
@@ -1065,7 +1065,7 @@ dt.plot()
 
 
     
-![png](output_105_0.png)
+![png](img/5/output_105_0.png)
     
 
 
@@ -1109,7 +1109,7 @@ cfg.plot()
 
 
     
-![png](output_112_0.png)
+![png](img/5/output_112_0.png)
     
 
 
@@ -1123,7 +1123,7 @@ rcfg.plot()
 
 
     
-![png](output_114_0.png)
+![png](img/5/output_114_0.png)
     
 
 
@@ -1176,7 +1176,7 @@ pdt.plot()
 
 
     
-![png](output_121_0.png)
+![png](img/5/output_121_0.png)
     
 
 
@@ -1308,7 +1308,7 @@ cfg.plot()
 
 
     
-![png](output_136_0.png)
+![png](img/5/output_136_0.png)
     
 
 
@@ -1320,7 +1320,7 @@ dt.plot()
 
 
     
-![png](output_137_0.png)
+![png](img/5/output_137_0.png)
     
 
 
@@ -1332,7 +1332,7 @@ pdt.plot()
 
 
     
-![png](output_138_0.png)
+![png](img/5/output_138_0.png)
     
 
 
@@ -1344,7 +1344,7 @@ cdg.plot()
 
 
     
-![png](output_139_0.png)
+![png](img/5/output_139_0.png)
     
 
 
@@ -1356,7 +1356,7 @@ code = """
 public boolean testMe(int x, int y) {
     if (x <= y) {
         if (x == y) {
-            System.out.println("Some output");
+            System.out.println("Some img/5/output");
         }
         if (x > 0) {
             if (y == 17) {
@@ -1378,7 +1378,7 @@ cfg.plot()
 
 
     
-![png](output_142_0.png)
+![png](img/5/output_142_0.png)
     
 
 
@@ -1390,7 +1390,7 @@ dt.plot()
 
 
     
-![png](output_143_0.png)
+![png](img/5/output_143_0.png)
     
 
 
@@ -1402,7 +1402,7 @@ pdt.plot()
 
 
     
-![png](output_144_0.png)
+![png](img/5/output_144_0.png)
     
 
 
@@ -1414,7 +1414,7 @@ cdg.plot()
 
 
     
-![png](output_145_0.png)
+![png](img/5/output_145_0.png)
     
 
 
@@ -1424,7 +1424,7 @@ code = """
 public boolean testMe(int x, int y) {
     if (x <= y) {
         if (x == y) {
-            System.out.println("Some output");
+            System.out.println("Some img/5/output");
         }
         if (x > 0) {
             if (y == 17) {
