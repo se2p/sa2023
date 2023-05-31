@@ -60,3 +60,14 @@ dependence analysis.
 
 [Markdown Export](rendered/5%20Controlflow%20Analysis.md)
 
+
+
+### 6: Data-flow analysis (Part 1)
+
+This chapter looks at how to track the propagation of data throughout the
+control flow of the program. We consider some classical data-flow analyses
+using an iterative analysis framework, and specifically look at how to
+propagate information about reaching definitions and reachable uses, which
+then allows us to construct a data-dependence graph.
+
+[Markdown Export](rendered/6%20Dataflow%20Analysis.md)
