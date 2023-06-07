@@ -71,3 +71,17 @@ propagate information about reaching definitions and reachable uses, which
 then allows us to construct a data-dependence graph.
 
 [Markdown Export](rendered/6%20Dataflow%20Analysis.md)
+
+
+### 7: Data-flow analysis (Part 2): Abstract interpretation
+
+This chapter continues with dataflow analysis, and refines our iterative
+dataflow analysis algorithm from chapter 6 to the lattice-theoretic monotone
+framework. Using this framework, we can then apply abstract interpretation,
+which is a more general analysis not only of how the program computes (which
+are all the analyses from chapter 6), but also _what_ the program computes.
+Since this is more challenging, we need to abstract the values. Our example
+analysis checks if programs may have division by zero errors.
+
+[Markdown Export](rendered/7%20Abstract%20Interpretation.md)
+
