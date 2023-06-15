@@ -85,3 +85,14 @@ analysis checks if programs may have division by zero errors.
 
 [Markdown Export](rendered/7%20Abstract%20Interpretation.md)
 
+
+### 8: Interprocedural analysis
+
+This chapter continues the zero-analysis example, but considers what happens
+if you have functions that call other functions. We can either assume a
+function call can return anything, or we have to make our analysis
+interprocedural. This causes some challenges, for example if the same
+method is called from multiple locations. We counter this problem by making
+our analysis context-sensitive (using cloning in the example).
+
+[Markdown Export](rendered/8%20Interprocedural%20Analysis.md)
