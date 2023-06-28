@@ -109,3 +109,15 @@ code, the notebook focuses only on static slicing, although the concepts
 generalise well to dynamic slicing as covered in the lecture.
 
 [Markdown Export](rendered/9%20Program%20Dependence.md)
+
+
+### 10: Dynamic Analysis
+
+All previous chapters considered static analysis, now we move on to dynamic
+analysis. We start analysing Python code, since this can be executed easily
+within the notebooks. We consider two alternative ways to instrument
+programs such that we can create execution traces: (1) Modifying ASTs, and
+(2) using the VM's tracing functionality. Using these instrumentation
+approaches we implement a range of different example dynamic analyses.
+
+[Markdown Export](rendered/10%20Dynamic%20Analysis.md)
