@@ -121,3 +121,20 @@ programs such that we can create execution traces: (1) Modifying ASTs, and
 approaches we implement a range of different example dynamic analyses.
 
 [Markdown Export](rendered/10%20Dynamic%20Analysis.md)
+
+
+### 11: (Dynamic) Symbolic Execution
+
+Symbolic execution represents execution paths as symbolic constraints over
+input variables. This can be used to generate test inputs that cover
+specific paths, or it can be used to check assertions and other properties
+of a program. Although recent progress on constraint solvers (SMT solvers in
+particular) has greatly improved the applicability of symbolic execution,
+there are fundamental limitations such as having to deal with loops, or
+black box function calls, which can, however, be overcome dynamically. The
+combination of dynamic and symbolic execution is known as dynamic symbolic
+execution, or concolic execution (concrete+symbolic). This chapter is based
+on Andreas Zeller's excellent [Fuzzing Book](https://www.fuzzingbook.org/html/ConcolicFuzzer.html)
+
+[Markdown Export](rendered/11%20Symbolic%20Execution.md)
+
